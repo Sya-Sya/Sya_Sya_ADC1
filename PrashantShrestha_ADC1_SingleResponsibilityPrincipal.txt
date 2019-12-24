@@ -1,3 +1,0 @@
-"A class should have one and only one responsibility"
-
-The single responsibility principle (SRP) states that every class or in a program should have responsibility for just a single piece of that program's functionality.
