@@ -1,0 +1,5 @@
+git clone - The git clone command copies an existing Git repository. 
+ git push - The git push command is used to upload local repository content to a remote repository. 
+ git pull- git pull is a Git command used to update the local version of a repository from a remote.
+git merge -  Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch
+git conflict - A conflict arises when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other.
